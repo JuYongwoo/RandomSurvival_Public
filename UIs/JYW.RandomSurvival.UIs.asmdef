@@ -1,0 +1,10 @@
+{
+	"name": "JYW.RandomSurvival.UIs",
+	"references": [
+		"JYW.RandomSurvival.Managers",
+		"JYW.RandomSurvival.Utils",
+		"JYW.RandomSurvival.Commons",
+		"JYW.RandomSurvival.SOs",
+		"JYW.RandomSurvival.Maps"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"name": "JYW.RandomSurvival.SOs",
+	"references": [
+		"JYW.RandomSurvival.Commons"
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"name": "JYW.RandomSurvival.Items",
+	"references":[
+		"JYW.RandomSurvival.Managers",
+		"JYW.RandomSurvival.Commons",
+		"JYW.RandomSurvival.Enemies"
+	]
+}

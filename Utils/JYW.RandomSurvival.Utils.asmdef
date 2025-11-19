@@ -1,0 +1,7 @@
+{
+	"name": "JYW.RandomSurvival.Utils",
+	"references": [
+		"Unity.Addressables",
+		"Unity.ResourceManager"
+	]
+}

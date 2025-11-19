@@ -1,0 +1,15 @@
+{
+	"name": "JYW.RandomSurvival.Players",
+	"references": [
+		"JYW.RandomSurvival.Commons",
+		"JYW.RandomSurvival.Managers",
+		"JYW.RandomSurvival.Maps",
+		"JYW.RandomSurvival.SOs",
+		"JYW.RandomSurvival.Utils",
+		"JYW.RandomSurvival.Items",
+		"JYW.RandomSurvival.Enemies",
+		"Unity.Burst",
+		"Unity.Jobs"
+
+	]
+}

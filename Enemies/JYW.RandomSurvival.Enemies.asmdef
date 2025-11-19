@@ -1,0 +1,9 @@
+{
+	"name": "JYW.RandomSurvival.Enemies",
+	"references":[
+		"JYW.RandomSurvival.Managers",
+		"JYW.RandomSurvival.Utils",
+		"JYW.RandomSurvival.Commons",
+		"JYW.RandomSurvival.Maps"
+	]
+}

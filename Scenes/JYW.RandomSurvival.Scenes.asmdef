@@ -1,0 +1,11 @@
+{
+	"name": "JYW.RandomSurvival.Scenes",
+	"references": [
+		"JYW.RandomSurvival.Commons",
+		"JYW.RandomSurvival.Managers",
+		"JYW.RandomSurvival.Maps",
+		"JYW.RandomSurvival.SOs",
+		"JYW.RandomSurvival.Utils"
+
+	]
+}

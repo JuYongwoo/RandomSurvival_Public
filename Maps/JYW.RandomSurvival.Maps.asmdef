@@ -1,0 +1,10 @@
+{
+	"name": "JYW.RandomSurvival.Maps",
+	"references": [
+		"JYW.RandomSurvival.Utils",
+		"JYW.RandomSurvival.SOs",
+		"Unity.Addressables",
+		"Unity.ResourceManager"
+
+	]
+}
